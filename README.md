@@ -8,7 +8,7 @@ using **MySQL** for data analysis and **Power BI** for an interactive dashboard
 showing the impact of water infrastructure projects.
 
 ## Live Dashboard
-[![Dashboard Preview](images/dashboard_preview.png)]([https://1drv.ms/u/c/c1a31aee64bd8402/IQCw_TEXgV3zQrocaUD_S9gCARS5oTmPwG_PCeLMwg1JHTU?e=1wUN7G](https://1drv.ms/i/c/c1a31aee64bd8402/IQDBoxtIuQzZQLVoWZ_nzUrAAZhjusCc3VvYWo5JdEJw_Uw?e=z1RKVb))
+[![Dashboard Preview](Dashboard_Preview.png.png)
 
 🔗 [View the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDAxYzgxZjMtYjEyYS00OWQ4LWEwNTYtYmRiZWYzMjE5ZWU4IiwidCI6IjVlMDA3YjZjLTI1OGItNGZkZS1hZGMxLThiZjhhMTM1ODg1ZCIsImMiOjh9) 
 
