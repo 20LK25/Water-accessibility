@@ -10,7 +10,7 @@ showing the impact of water infrastructure projects.
 ## Live Dashboard
 [![Dashboard Preview](images/dashboard_preview.png)]([https://1drv.ms/u/c/c1a31aee64bd8402/IQCw_TEXgV3zQrocaUD_S9gCARS5oTmPwG_PCeLMwg1JHTU?e=1wUN7G](https://1drv.ms/i/c/c1a31aee64bd8402/IQDBoxtIuQzZQLVoWZ_nzUrAAZhjusCc3VvYWo5JdEJw_Uw?e=z1RKVb))
 
-🔗 [View the dashboard]([https://1drv.ms/u/c/c1a31aee64bd8402/IQCw_TEXgV3zQrocaUD_S9gCARS5oTmPwG_PCeLMwg1JHTU?e=1wUN7G](https://app.powerbi.com/links/3JFhw3uaPh?ctid=5e007b6c-258b-4fde-adc1-8bf8a135885d&pbi_source=linkShare))
+🔗 [View the dashboard]<iframe title="Madji Ndogo Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDAxYzgxZjMtYjEyYS00OWQ4LWEwNTYtYmRiZWYzMjE5ZWU4IiwidCI6IjVlMDA3YjZjLTI1OGItNGZkZS1hZGMxLThiZjhhMTM1ODg1ZCIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Key Findings
 - **Population reached:** Of Maji Ndogo's ~28M people, about **9M had access to
