@@ -44,7 +44,7 @@ The data is not included in this repository.
 ├── README.md
 ├── sql/
 ├── dashboard/
-│   └── Maji_Ndogo_Dashboard.pbix
+│   └── Madji_Ndogo_Dashboard.pbix
 └── images/
     └── dashboard_preview.png
 ```
