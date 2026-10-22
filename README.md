@@ -37,7 +37,7 @@ The data is not included in this repository.
 | File | Purpose |
 |------|---------|
 | `[md_water_services.sql](https://1drv.ms/u/c/c1a31aee64bd8402/IQDjq58KLo16T6lauSjEsOiaAWUky3HXvAqw2CEbNPE-kU4?e=xHQP0x)` | Building data, cleaning and further analysis. Explores tables and relationships |
-| `[Madji Ndogo Project Visualization.sql](https://1drv.ms/u/c/c1a31aee64bd8402/IQA5w-dd0MeUSLN9na81VV9gAbWWyITIeiBMxEtYAf-rSyw?e=135CyD)` | Queries used to build the dashboard metrics |
+| `[Madji Ndogo Project Visualization.sql](Madji Ndogo Project Visualization.sql)` | Queries used to build the dashboard metrics |
 
 ## Repository Structure
 ```
