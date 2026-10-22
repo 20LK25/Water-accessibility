@@ -28,7 +28,7 @@ showing the impact of water infrastructure projects.
 - **Power BI:** dashboard design and visualization (DAX, data modeling)
 
 ## Data
-The dataset (`Estimates-on-the-use-of-water-(2020)-a-3712`) was provided as part of the ALX Data Analytics
+The dataset (Estimates-on-the-use-of-water-(2020)-a-3712.csv) was provided as part of the ALX Data Analytics
 programme. It covers water sources, visits, water quality, well pollution tests,
 locations and employees in Maji Ndogo, plus a global water access table.
 The data is not included in this repository.
